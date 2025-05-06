@@ -1,8 +1,3 @@
-<!-- PROFILE BANNER -->
-<p align="center">
-  <img src="https://github.com/santosh5541/santosh5541/raw/main/assets/banner.png" alt="Santosh Luitel Banner" width="100%" />
-</p>
-
 # 👋 Hi, I’m **Santosh Luitel**
 
 🔭 Master’s student in Computer Science @ University of South Dakota  
