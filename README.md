@@ -18,19 +18,19 @@ _Jan 2025 – Present_
 
 ## 💼 Professional Experience
 
+### Software Engineer – F1Soft International Pvt. Ltd.  
+_Oct 2024 – Dec 2024, Kathmandu, Nepal_  
+- Built AngularJS front‑end and Spring Boot back‑end for mobile banking apps.  
+- Integrated Spring Security OAuth2 and JWT—unauthorized access ↓ 40%.  
+- Performance‑tuned APIs, reducing latency by 50%.  
+- Wrote unit/integration tests with JUnit & Mockito.
+
 ### Software Engineer – Code Fusion Technologies Pvt. Ltd.  
 _May 2023 – Oct 2024, Kathmandu, Nepal_  
 - Designed and developed microservices with Java & Spring Boot, deployed on Linux servers.  
 - Architected RESTful APIs, optimized MongoDB schemas for high‑throughput access.  
 - Automated CI/CD with Jenkins pipelines—deployment frequency ↑ 3×.  
 - Collaborated in Agile sprints; conducted code reviews and mentoring.  
-
-### Software Engineer – F1Soft International Pvt. Ltd.  
-_Oct 2024 – Dec 2024, Kathmandu, Nepal_  
-- Built AngularJS front‑end and Spring Boot back‑end for mobile banking apps.  
-- Integrated Spring Security OAuth2 and JWT—unauthorized access ↓ 40%.  
-- Performance‑tuned APIs, reducing latency by 50%.  
-- Wrote unit/integration tests with JUnit & Mockito.  
 
 ### Network Administrator & Java Software Engineer – NIC ASIA Capital Ltd.  
 _Dec 2022 – Apr 2023, Kathmandu, Nepal_  
