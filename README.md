@@ -17,7 +17,7 @@
 
 **M.S. in Computer Science**  
 University of South Dakota, Vermillion, USA  
-_Aug 2024 – Present_
+_Jan 2025 – Present_
 
 ---
 
@@ -69,10 +69,7 @@ _Feb 2022 – Nov 2022, Kathmandu, Nepal_
 
 ### HVAC RL Optimizer  
 Reinforcement‑learning control system (DQN, SAC, PPO) achieving ~40% energy savings while maintaining comfort bounds.  
-
-### Dog Breed Classifier  
-Transfer‑learned on Stanford Dogs Dataset using InceptionV3/NASNetLarge; reached 85% accuracy across 12 breeds.  
-
+ 
 ### Movie Recommender System  
 Streamlit app leveraging collaborative filtering & TMDB API; features dynamic UI and exportable user recommendations.  
 
