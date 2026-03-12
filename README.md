@@ -2,7 +2,7 @@
 
 🔭 Master’s student in Computer Science @ University of South Dakota  
 💼 Software Engineer | Java ∙ Spring Boot ∙ AngularJS ∙ React  
-🤖 AI & Reinforcement Learning enthusiast (DQN, SAC, PPO)  
+🤖 AI & Reinforcement Learning enthusiast  
 🌱 Learning trending technologies & DevOps (Docker, Jenkins, Vercel)  
 💞️ Open to collaborate on full‑stack & AI projects  
 
@@ -17,6 +17,15 @@ _Jan 2025 – Present_
 ---
 
 ## 💼 Professional Experience
+
+
+## Graduate Research Assistant – University of South Dakota
+_Feb 2026_ Current
+- Conduct research in bioinformatics focusing on Cyanobacteria datasets using machine learning techniques.
+- Designed and structured biological datasets for genomic and protein sequence analysis.
+- Implemented machine learning models using Python to identify patterns and predict biological characteristics.
+- Performed data preprocessing, feature engineering, and model evaluation using Pandas, NumPy, and Scikit-learn.
+- Prepared technical reports, data visualizations, and research documentation for academic presentations and publications.
 
 ### Software Engineer – F1Soft International Pvt. Ltd.  
 _Oct 2024 – Dec 2024, Kathmandu, Nepal_  
