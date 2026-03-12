@@ -20,7 +20,7 @@ _Jan 2025 – Present_
 
 
 ## Graduate Research Assistant – University of South Dakota
-_Feb 2026_ Current
+_Feb 2026_ Current, South Dakota, Vermillion
 - Conduct research in bioinformatics focusing on Cyanobacteria datasets using machine learning techniques.
 - Designed and structured biological datasets for genomic and protein sequence analysis.
 - Implemented machine learning models using Python to identify patterns and predict biological characteristics.
